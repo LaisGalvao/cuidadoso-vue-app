@@ -1,4 +1,6 @@
 # cuidadoso-vue-app
+Web app utilizando Vue.js, realizado no projeto integrador do curso de Análise e Desenvolvimento de Sistemas
+
 
 ## Project setup
 ```
