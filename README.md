@@ -5,8 +5,11 @@ Web app utilizando Vue.js, realizado no projeto integrador do curso de Análise 
 **Última atualização do respositório: 06/05/2022**
 
 Figma: 
-[Figma](https://www.figma.com/community/file/1104383146968974844?preview=fullscreen)
+[](https://www.figma.com/community/file/1104383146968974844?preview=fullscreen)
 
+<iframe  height="450"
+  width="800" src="https://www.figma.com/embed?embed_host=astra&url=\https://www.figma.com/community/file/1104383146968974844" allowfullscreen>
+</iframe>
 ## Project setup
 ```
 npm install
