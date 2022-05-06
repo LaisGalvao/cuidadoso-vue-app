@@ -5,7 +5,8 @@ Web app utilizando Vue.js, realizado no projeto integrador do curso de Análise 
 **Última atualização do respositório: 06/05/2022**
 
 **Protótipo: **
-[Link do ](https://www.figma.com/community/file/1104383146968974844?preview=fullscreen)
+
+[Link do Figma: ](https://www.figma.com/community/file/1104383146968974844?preview=fullscreen)
 
 ![protótipo ui](figggggg.png)
 
