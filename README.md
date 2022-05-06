@@ -1,4 +1,4 @@
-# CuidaIdoso
+# CuidaIdoso <img  src="Cópia de Cuida Doso (1) 1.svg" alt="CuidaIdoso Logo" width="50"/>
 
 Uma aplicação que conecta pacientes a cuidadores e enfermeiros particulares
 Web app utilizando Vue.js, realizado no projeto integrador do curso de Análise e Desenvolvimento de Sistemas (4° semestre)
